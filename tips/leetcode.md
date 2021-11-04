@@ -3,7 +3,9 @@
 ## 算法
 
 + sliding window
-
++ Bitmasking
+    + 状态压缩
+    + 位数不能太多，否则数字太大
 
 ## 动态规划(Dynamic Programming)
 
