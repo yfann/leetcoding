@@ -52,8 +52,6 @@
 
 + [帽子](https://toutiao.io/posts/zym4cal/preview)
 
-+ [Overlapping Subproblems Property in Dynamic Programming | DP-1](https://www.geeksforgeeks.org/overlapping-subproblems-property-in-dynamic-programming-dp-1/)
-+ [Optimal Substructure Property in Dynamic Programming | DP-2](https://www.geeksforgeeks.org/optimal-substructure-property-in-dynamic-programming-dp-2/)
-+ [How to solve a Dynamic Programming Problem ?](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
++ [How to solve a DynamiNc Programming Problem ?](https://www.geeksforgeeks.org/solve-dynamic-programming-problem/)
 
 
