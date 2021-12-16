@@ -7,6 +7,9 @@
     + 状态压缩
     + 位数不能太多，否则数字太大
 
++ backtracking(回溯)
+    + 分步试错
+
 ## 动态规划(Dynamic Programming)
 
 + 优化递归
@@ -16,6 +19,7 @@
 ## ref
 
 + [算法的时间与空间复杂度](https://zhuanlan.zhihu.com/p/50479555)
++ [Modulo 10^9+7 (1000000007)](https://www.geeksforgeeks.org/modulo-1097-1000000007/)
 
 <!-- leetcode -->
 + [LeetCode解题](https://siddontang.gitbooks.io/leetcode-solution/content/)
@@ -27,3 +31,7 @@
 + [hello-algorithm](https://github.com/geekxh/hello-algorithm)
 + [动态规划入门1](https://zhuanlan.zhihu.com/p/50386212)
 + [Dynamic Programming](https://www.geeksforgeeks.org/dynamic-programming/#quick)
+
+
+<!-- portal -->
++ [geeksforgeeks](https://www.geeksforgeeks.org/)
