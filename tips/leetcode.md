@@ -29,6 +29,7 @@
 + [leetCode answer1](https://github.com/azl397985856/leetcode)
 + [leetCode answer2](https://github.com/pezy/LeetCode)
 + [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
++ [LeetCode 刷题攻略](https://gitee.com/programmercarl/leetcode-master)
 
 <!-- algorithm -->
 + [hello-algorithm](https://github.com/geekxh/hello-algorithm)
