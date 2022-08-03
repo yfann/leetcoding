@@ -36,7 +36,7 @@
         + DP table保存所有子问题的解
         + 迭代一致
 
-## Optimal Substructure 
+## Optimal Substructure \
 
 + the Shortest Path problem 
     + A到B的最短路径上有x
