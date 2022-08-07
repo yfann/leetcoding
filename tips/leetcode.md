@@ -24,8 +24,11 @@
 + [leetcode](https://leetcode.com/)
 + [leetcode](https://leetcode.cn/)
 
-<!-- leetcode -->
+<!-- basic -->
 + [LeetCode解题](https://siddontang.gitbooks.io/leetcode-solution/content/)
+
+<!-- leetcode -->
+
 + [leetCode answer1](https://github.com/azl397985856/leetcode)
 + [leetCode answer2](https://github.com/pezy/LeetCode)
 + [leetcode-master](https://github.com/youngyangyang04/leetcode-master)
