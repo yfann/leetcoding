@@ -23,6 +23,7 @@
 <!-- offical -->
 + [leetcode](https://leetcode.com/)
 + [leetcode](https://leetcode.cn/)
++ [lintcode](https://www.lintcode.com/)
 
 <!-- basic -->
 + [LeetCode解题](https://siddontang.gitbooks.io/leetcode-solution/content/)
