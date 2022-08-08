@@ -46,5 +46,5 @@
 + [Modulo 10^9+7 (1000000007)](https://www.geeksforgeeks.org/modulo-1097-1000000007/)
 
 
-<!-- others -->
+<!-- interview -->
 + [geeksforgeeks](https://www.geeksforgeeks.org/)
