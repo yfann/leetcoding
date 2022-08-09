@@ -27,6 +27,7 @@
 
 <!-- basic -->
 + [LeetCode解题](https://siddontang.gitbooks.io/leetcode-solution/content/)
++ [算法珠玑——一个最精简的题库](https://soulmachine.gitbooks.io/algorithm-essentials/content/java/)
 
 <!-- leetcode -->
 
