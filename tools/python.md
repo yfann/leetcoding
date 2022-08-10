@@ -1,12 +1,14 @@
 
 
-## array
+## list
 <!-- 删除元素 -->
-+ array.remove(element)
-+ array.pop(index)
-+ del array[index]
++ list.remove(element)
++ list.pop(index)
++ del list[index]
     + `del a[1:]`
-
+<!-- add -->
++ list.append()
++ list.extend(list)
 
 ## tips
 
