@@ -18,6 +18,14 @@
 + `nonlocal`
     + 嵌套函数中修改外部函数的变量
 
++ `[1]*10` 扩展数据
+
++ range vs xrange（Python2）
+    + range
+        + 直接生成列表占用较大内存
+    + xrange
+        + 返回生成器
+
 ## ref
 <!-- list -->
 + [python list底层实现原理](https://blog.csdn.net/liuweiyuxiang/article/details/106534166)
