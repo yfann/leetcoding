@@ -25,3 +25,6 @@ class Solution:
 
 # @lc code=end
 
+## tips
+##1. expand around center,遍历每个字符，向两侧扩展找到最大回文
+##2. 遍历每个子串并判断是否为回文
