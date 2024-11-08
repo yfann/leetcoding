@@ -11,6 +11,26 @@ class Solution:
             return False
         if '*' not in p and '.' not in p:
             return s == p
+        current=0
+
+        for c in p:
+            if current>=len(s):
+                return False
+            if c=='.':
+                current+=1
+                continue
+            elif c=='*':
+                pass
+            else:
+                if c==s[current]:
+                    current+=1
+                    continue
+                else:
+                    return False
+
+
+            
+            
 
         
         

@@ -46,6 +46,8 @@
 
 + 不做重复计算
 + 子问题不是孤立的
++ For any DP problem all follow the same rule that we should memoize the truth value of $$(n,m)$$ then we need the values of $$(n-1 , m)$$ or $$(n ,m-1)$$ or $$(n-1 , m-1)$$ this would be the whole point of DP.
+
 
 ## ref
 + [动态规划之武林秘籍](https://mp.weixin.qq.com/s?__biz=MzA4NDE4MzY2MA==&mid=2647523785&idx=1&sn=7df30854c688a51b01bd5e369900b4f5&scene=21#wechat_redirect)
